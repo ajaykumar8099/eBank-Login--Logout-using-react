@@ -1,0 +1,12 @@
+.not-found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+  min-height: 100vh;
+}
+.not-img {
+  width: 60%;
+  height: 50%;
+}

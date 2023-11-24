@@ -1,0 +1,40 @@
+.home-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+.nav-bar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: transparent;
+  padding: 20px;
+}
+.nav-img {
+  height: 70px;
+  width: 100px;
+  padding-left: 20px;
+}
+.logout-button {
+  height: 44px;
+  width: 120px;
+  padding: 10px;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  background-color: transparent;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.your-head {
+  font-size: 40px;
+  color: #ffffff;
+  font-weight: 600;
+}
+.card-image {
+  width: 60%;
+  height: 60%;
+}
